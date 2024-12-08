@@ -1,0 +1,15 @@
+{
+	"id": "8490c158-cc10-4eb3-af60-2ff2ab58322c",
+	"name": "Development",
+	"values": [
+		{
+			"key": "githubUrl",
+			"value": "  https://api.github.com",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-12-08T11:32:50.148Z",
+	"_postman_exported_using": "Postman/11.22.0"
+}
